@@ -1,0 +1,7 @@
+size	type	noise	R
+A	T1	H	No
+B	T2	L	Yes
+B	T1	L	Yes
+B	T3	H	Yes
+A	T2	H	Yes
+A	T3	L	No
