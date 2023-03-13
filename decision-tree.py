@@ -5,7 +5,7 @@ from sklearn.metrics import classification_report
 
 dataset = pd.read_csv('my_file.csv')
 
-
+# The recommended approach of using Label Encoding converts to integers which the DecisionTreeClassifier() will treat as numeric
 from sklearn.preprocessing import LabelEncoder
 labelencoder = LabelEncoder()
 
