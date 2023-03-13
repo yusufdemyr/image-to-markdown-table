@@ -1,5 +1,5 @@
-| Body Temperature |  Gives birth |  Four-legged |  Hipernates Class |
-| --- | --- | --- | --- |
+| Body Temperature | Gives Birth | Four-legged | Hipernates | Class |
+| --- | --- | --- | --- | --- |
 | ‘Warm-blooded | Yes | Yes | No | Mammals |
 | ‘Warm-blooded | Yes | No | No | Mammals |
 | ‘Warm-blooded | No | No | No | Non-mammals |

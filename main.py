@@ -38,3 +38,7 @@ class App:
     def show(self,table):
         print(table)
 
+if __name__ == "__main__":
+    app = App()
+    table = app.extract('Adsız.png')
+    app.save(table)
